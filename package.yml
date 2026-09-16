@@ -1,0 +1,18 @@
+package: community.lazycat.app.pdf-math-translate
+version: 1.1.0
+name: GBabelDocUI
+description: "Non-destructive multi-user web UI based on PDFMathTranslate-next"
+min_os_version: "1.5.0"
+homepage: https://github.com/eaiu/GBabelDocUI/
+author: eaiu
+unsupported_platforms:
+  - ios
+  - android
+  - tvos
+locales:
+  zh:
+    description: "基于 PDFMathTranslate-next 开发的非破坏式多用户 Web UI"
+    name: GBabelDocUI
+  en:
+    description: "Non-destructive multi-user web UI based on PDFMathTranslate-next"
+    name: GBabelDocUI
